@@ -54,6 +54,7 @@ This is a tool to visualize search algorithms
 ```terminal
 git clone https://github.com/santhoshdwarampudi/path-finding-visualiser.git
 cd Path-Finding-Visualizer
+```
 
 # Execution
 * 1st way: Run the Path Finding Visualizer.jar
